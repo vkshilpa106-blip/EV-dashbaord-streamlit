@@ -29,7 +29,7 @@ try:
         
     st.markdown("###") # Structural spacing element
 
-    # 4. Component Layer: Metric Cards (Dynamic Calculations from your local dataset)
+    # 4. Component Layer: Metric Cards (Calculated metrics)
     col1, col2, col3 = st.columns(3)
     
     with col1:
